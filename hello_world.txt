@@ -2,3 +2,4 @@ im zayn
 this is for git testing - pushed
 git add + commit after pushing - pushed
 only git + commit
+git add
