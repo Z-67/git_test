@@ -1,2 +1,3 @@
 im zayn
-this is for git testing
+this is for git testing - pushed
+git add + commit after pushing
