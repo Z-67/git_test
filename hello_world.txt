@@ -1,3 +1,4 @@
 im zayn
 this is for git testing - pushed
-git add + commit after pushing
+git add + commit after pushing - pushed
+only git + commit
